@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Gyan">
+<test name="Smoke TESTcases">
+<parameter name="user ID" Value="Gyana"></parameter>
+<classes>
+<class name="DataDriven.data"></class>
+
+</classes>
+
+</test>
+
+</suite>
