@@ -14,6 +14,7 @@ System.out.println("\n");
 		  System.out.print(input1.charAt(i));  
 		  for (int j=0;j<input1.length();j++){
 			  System.out.print(input.charAt(j)); 
+System.out.println("My new code for git");
 }
 	}
 }

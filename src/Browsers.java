@@ -10,6 +10,7 @@ public class Browsers {
 		
 		//String path=System.getProperty("user.dir");
 		//System.out.println(path);
+//My name dont edit
 		System.setProperty("webdriver.chrome.driver",System.getProperty("user.dir") + "//chromedriver_win32//chromedriver.exe");
 //WebDriver cd= new ChromeDriver();
 //cd.navigate().to("http:google.com");
